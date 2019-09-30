@@ -11,9 +11,7 @@ print("LLLLL   OOO       W    W        EEEE        SSS")
 
 
 
-
-
-
+print("shovel:", 3 + 2 + 1 - 5 + 4 % 2 - 1 / 4+6)
 
 
 
