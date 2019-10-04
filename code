@@ -1,11 +1,28 @@
-pizza = 1000
-work = 10
-bake = 20
-full = bake * work
-dill = 41*60
-back = dill
-CCH = 30
-TTP = 1000/CCH
+Dvideo = .5
+Bvideo = .25
+Gvideo = .20
+Svideo = .25
+
+DTvideo = Dvideo * 12
+BTvideo = Bvideo * 21
+GTvideo = Gvideo * 44
+STvideo = Svideo * 52
+
+all = DTvideo + BTvideo + GTvideo + STvideo
+year = 8760
+todal = year - all
 
 
-print(TTP)
+
+
+
+
+
+#adding space
+print(" ")
+print("dafawfulizer uploads 12 30 minute videos a year")
+print("blameitonjorge uploads 21 15 minute videos a year")
+print("TheGamerFromMars uploads 44 10 minute videos a year")
+print("Finally Scott The Woz uploads 52 15 minute videos a year")
+print("if you watch all of their videos, you will spend" ,all,"hours a year watching good youtube videos")
+print("so that means that you spend" , todal,"hours a year not watching good youtube videos a year")
