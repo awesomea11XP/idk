@@ -1,13 +1,11 @@
-print(" ")
-#hell0. this is my code.
-#i shall now make a word problem
-print("hank wanted to make watermelon for the sunday BBQ. he had 8 watermelons then put them into groups")
-print("of 4. his wife then gave him 100 because shes dumb. hank his wife and their son ate half of")
-print("them and then remembered homeless shelters exist and gave away the other half of the ")
-print("extra watermelons.")
-#i add a space to the words with this
-print(" ")
-print("how many watermelons are left?")
-#heres the math
-print("")
-print("computer says:",8/4+100-50*2)
+pizza = 1000
+work = 10
+bake = 20
+full = bake * work
+dill = 41*60
+back = dill
+CCH = 30
+TTP = 1000/CCH
+
+
+print(TTP)
